@@ -1,2 +1,3 @@
-# concurrent
-High level concurrency abstractions in Go.
+# Concurrent
+
+Cocurrent is a Go module with some high level concurrency abstractions.
